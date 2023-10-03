@@ -12,5 +12,13 @@
     "node"
   ],
   "author": "Cesar Pineda <cesar.hpp96@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
 }
