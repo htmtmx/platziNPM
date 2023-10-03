@@ -1,0 +1,16 @@
+{
+  "name": "platzinpm-init",
+  "version": "1.0.0",
+  "description": "Practice from the ''NPM, packages manage and dependencies' course by Platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "node"
+  ],
+  "author": "Cesar Pineda <cesar.hpp96@hotmail.com>",
+  "license": "MIT"
+}
